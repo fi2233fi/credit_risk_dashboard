@@ -8,9 +8,11 @@ patterns across borrower demographics, loan purpose, and repayment terms.
 ## Background
 
 Most credit dashboards show you what happened. This one is built to 
-show you where the exposure is. The goal was to give a lending team 
-a single view that connects loan size, borrower profile, and risk 
-classification so they can spot concentration risk at a glance.
+show you where the exposure is. Having worked across financial and 
+healthcare data, I wanted to build something that gives a lending team 
+a single view connecting loan size, borrower profile, and risk 
+classification so they can spot concentration risk at a glance rather 
+than across three separate reports.
 
 ---
 
@@ -74,3 +76,9 @@ Power BI, Microsoft Excel
 
 Dashboard built from raw loan data — cleaning, risk categorization, 
 and DAX measures built from scratch.
+
+---
+
+*Understanding where dollar exposure concentrates — not just where 
+borrower count is highest — is what separates a risk dashboard from 
+a reporting dashboard.*
