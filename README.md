@@ -18,28 +18,37 @@ classification so they can spot concentration risk at a glance.
 
 | Metric | Finding |
 |--------|---------|
-| Total loan portfolio analyzed | $331M |
-| High risk average loan amount | $19K |
-| Low risk average loan amount | $7K |
+| Total portfolio analyzed | $331M |
+| High risk loan volume | $150M (45% of portfolio) |
+| Medium risk loan volume | $100M (30% of portfolio) |
+| Low risk loan volume | $60M (18% of portfolio) |
+| High risk average loan | $19K |
+| Low risk average loan | $7K |
+| Largest loan purpose | Education ($61M) |
 | Most common loan term | 36 months (66%) |
-| Highest volume loan purpose | Education ($61M) |
 
 **High risk borrowers take out nearly 3x more than low risk borrowers**
-Average loan amount jumps from $7K for low risk to $19K for high risk,
+Average loan amount jumps from $7K for low risk to $19K for high risk 
 with a corresponding increase in interest rate. This means the cost of 
-a misclassified high-risk borrower is significantly higher than the 
-loan count alone would suggest.
+a misclassified high-risk borrower is significantly higher than loan 
+count alone would suggest. Nearly half the portfolio by dollar value 
+sits in the high risk category.
 
-**Renters represent the largest borrower segment**
-Renters account for the largest share of total loan volume at $150M, 
-slightly above mortgage holders. Ownership status alone is not a 
-clean predictor of risk category.
+**Education and medical loans dominate volume at $117M combined**
+Education ($61M) and medical ($56M) are the top two purposes by volume. 
+These are largely non-discretionary borrowing decisions, meaning 
+borrowers may accept unfavorable terms because they have no alternative, 
+which concentrates risk in segments that are harder to screen out.
 
-**Education and medical loans dominate volume**
-Education ($61M) and medical ($56M) are the top two loan purposes 
-by volume, which matters for risk modeling since these are often 
-non-discretionary borrowing decisions — borrowers may take on higher 
-risk because they have no choice.
+**Renters carry more total exposure than mortgage holders**
+Renters account for $150M vs $140M for mortgage holders. Home ownership 
+status is not a clean risk predictor here, which suggests the portfolio 
+may need additional segmentation beyond standard borrower profiles.
+
+**Two thirds of borrowers choose shorter 36 month terms**
+66% of loans are on 36 month terms vs 34% on 60 months. Shorter terms 
+mean higher monthly payments and potentially higher default risk for 
+borrowers who are already in the high risk category.
 
 ---
 
